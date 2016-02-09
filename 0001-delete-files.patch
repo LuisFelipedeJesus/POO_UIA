@@ -1,0 +1,113 @@
+From 73935cb8a0adf007f135fe002ee38926978adf38 Mon Sep 17 00:00:00 2001
+From: LUIS <luisfgmtz@gmail.com>
+Date: Tue, 9 Feb 2016 03:16:23 -0600
+Subject: [PATCH 1/5] delete files
+
+---
+ .DS_Store                | Bin 6148 -> 0 bytes
+ ejercicios/.DS_Store     | Bin 6148 -> 0 bytes
+ ejercicios/E01/.DS_Store | Bin 6148 -> 0 bytes
+ practicas/.DS_Store      | Bin 6148 -> 0 bytes
+ practicas/P03/.DS_Store  | Bin 6148 -> 0 bytes
+ 5 files changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 .DS_Store
+ delete mode 100644 ejercicios/.DS_Store
+ delete mode 100644 ejercicios/E01/.DS_Store
+ delete mode 100644 practicas/.DS_Store
+ delete mode 100644 practicas/P03/.DS_Store
+
+diff --git a/.DS_Store b/.DS_Store
+deleted file mode 100644
+index cf746a30fdf6b0046dfeaebc7cc24d4ad95157f4..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+HcmV?d00001
+
+literal 6148
+zcmeH~&2G~`5XWbe&^qbG2#_jq@e!mP(n3hNnNW~8AVo52g(wPkZIMNmH?o~ZRTRl*
+z9)s^k;Ev$L3-BnM%FON*(ImYg1Zc;a{m*`kE&t@*^#XwCPvR{A7XTb|(nbr56-NE!
+zOIG8SHB_PRaR?H~6%<ROZG$CX3H)sYXzsQkffwkxp1VAMAEfFqN>zmYv^d;HzlL5r
+zIl=OroM>8%Ip=#cPGwPcI^RUC-ng)~?lfB)bh#H>PlJ(~24z@Iihh_s(KQ(-5yykD
+z9G%9GluCcbVYDZc>CnA=S7l`=vn2l|^<ZCSv6}YPB#VoKz}#<N#^q?}UK!-c5vC5p
+zEZLKVjASayW2Z^i(A}KPdOO=~Z@YVA-u7m_UZ?Hd>~78H?nlSDdcAw+;p6fA<*V0k
+z-oAVP;nQdR`XF$@({_pVRK8%a66jHoXQ|4bV?X6KVT`~-L|*DeGlXIR`Bxl8$m@)J
+zMaDl1ynFlB?*zUA%>r)ZXl;Q2f5OhjLc6V60+xU!K<k5tPU^E(M)lHxg+2nHHn3S6
+z#`L>DIUcLeS{cP2G+|OvO{(A{hA`>a?(sOEwK8hbLGa;2@RJ3fP=tOu-rv*1LHI^(
+zX$e>YX9?6z)usLa-udVMvq`pQ30MOE6#>!M4R-tZO1!r&y&Ube9{MwMG8$JI)hSr;
+icB}*1iZ{`<VV_3<s?S;(#TGRCBcL(Z!V>tS1bzUa-qeZ!
+
+diff --git a/ejercicios/.DS_Store b/ejercicios/.DS_Store
+deleted file mode 100644
+index 5f52a6dcdd88ce6e5f6c92bd440b76b3e624e741..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+HcmV?d00001
+
+literal 6148
+zcmeHKPm9w)6o1oJO?NL5S6J{8@S;$q-L=$X>~;kYVj;4N>`G0VvK>e>p-HzarI7P}
+z4F4be0NzDEfHzNm4o~&X%*(oU?Nw0bg*U%9@6Sx~OPI+30BcXe27nC!7OKQj6`MbZ
+zj7z;BCGyB1lVgZ}5QzYLayTRZ0t52hm0<^-!1kkP>HR&#$gPDE^&n-~g*r5T%ld$^
+zJE%7o3oZ~TE10GUeG5N=B;sjSuYY5ua^=$HD^_)FU0(LpwddYYOufv{CTZIrAE+J=
+z2Lah#KN}YIQz4==+Yk2mVA``cc0`={JRXeCl^*W%I26;in8aav=;`tHd6*4*_Vw;~
+zaEzs0KOXGylm|TG*@;z^SI^#@&06=jYR*=3dtP&9tyaC}+-o-GbNi!Z-MHO+@c3CW
+zKYjV?^_#cv-hcY6XaR<wzLIN%1$;q+=!lLQUSEuoBJ?XV5}i&s$@&0azaQLHajF@K
+za782;t{Uyw8^@7|k8qsguFg$qOv8X-z%WoSKud(RUN{UI1`Gp+0b)R|4-TqCmoV3;
+zmJV#x5dg7*ZY5}|pMOM0IuKpLTqAl=m@Y-srHqakjLr^Bmt)+e{9L0h2c~AmacE{n
+zClp3U59X+JV6H~f8U_pl%M6rt*OvSL?&|aZa*^p71`GrL6$7l&@j7jMB-&dqJe=HX
+v9n=@7Qe<AP@vH<5wH0Ho+=@3*m7w2|2BJ%tYeWx<`4Lbwn8q;hR~h&T+h&Ex
+
+diff --git a/ejercicios/E01/.DS_Store b/ejercicios/E01/.DS_Store
+deleted file mode 100644
+index f640943fe35932ef232d873acd0be3a473cb59c7..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+HcmV?d00001
+
+literal 6148
+zcmeHL%Sr=55Ue&i1iVB~9_I@L@dw5b4<0=E119kjS+YV%&ii@(RjisGC98`!MWh?L
+zYaZP_GX*=31z@w?(-klUFrf-fg#l6XVAn}?7Fx;CV2u?P)b&83zu2U?pW~kMy}=8P
+z=ig$3ORl8hdbZf!HSKEIv`hMntQqy1IyxL^fwOONJTt={i%%I|8FieYqzMxY1Ovf9
+zFc1v<I0HPhC6iOfu)#nu5Da`Up#33Hg}GwqShfxtU7yuI7D`yw^;noH=8Byodno3i
+zL=Uz4#4rzMd#Zl9V&~}Lurf09)REsGFIGlpdn)d*>=-r}2nPBLjJ!J4`G3n#X7G{U
+z4~beZ5Dfe?25dZknCpjDJzKvlPiJkSK2jy}>r|ky+`9y@qJ89|bb5bMnSQxq=cp`d
+RFX6<v2oyrX1Ovaoz#H*MCLjO+
+
+diff --git a/practicas/.DS_Store b/practicas/.DS_Store
+deleted file mode 100644
+index 31f5e3cb4ea549a515abd3af32f0cc05964bbc44..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+HcmV?d00001
+
+literal 6148
+zcmeHK&1%~~5Z<+&Moum&Z6J_~ZcV@kJFXiFIVesV$f00RNeE4GrApKbLTfBJCK!Xx
+zd5rutd4$|Ud+H1HQF3x;cGn?p(pxAr%!t`<c6MgOezLV1#u#t*!y02YW6T0YER<n*
+zKyV%Po)nB{29RS7`6Y;D05dE{@;@+u&#uT?tjcOT@znF%hLz>9615Q>wfaZY&j+LG
+z(@}gKqF#X(#^XD+>cJrGnqSOK(2Yf!Rja>vp;(%EHfxpV=JB$h&wcVba^Pit)=!&$
+z@1vTDFba&_^0Usw{vc(1Yx}{jhz4!@<)%zBUnEiQPU^v)NJ2Si%6<~22cE9CC&H}L
+zwijBx=nzs{eiH49R0JXx*^yPot8Fh1hmE&yD$Z)7KB_pwwY6%+dEKauM)s9uEv+;*
+z-tTuu$0w&}=ie?aufMAeGY)?cB`*w4;0G9*+WMi_OJbRP1<xdU5=BT15Cg=(qcUJ#
+zGS>W~R;6OZ05R|s7{K>~1B&Px%r&Z42MnqO04#x93E1l6AJ9PupldMK2p$lwQvr1<
+zH!TJ?y#v?ju<n}pT%%5BT-_P!m^*XRp>WfBa7TqR?rNlw7$63w87S(hjpzTnzxV&s
+zNi-t{h=C`?055HMTTR%KIa}{-4$oQ#^fM?5#^oAsQ@~J1F~s6gya=iU{0<s`uEAU*
+RctGewK+!-0G4M|r_zh2gd(r>^
+
+diff --git a/practicas/P03/.DS_Store b/practicas/P03/.DS_Store
+deleted file mode 100644
+index 1cd5b337d8d77a353936a8d1985633df48ba05f9..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+HcmV?d00001
+
+literal 6148
+zcmeHKK}rKb5Uh?tA|A}q;~YH+>IasP2wwFACeedoVZos1eTI+n0scm-d)i<&vv^aK
+zZs@6**{Nx|7Phwm$mHqn3>X6#(G>>=915n-)pu;*JNrbjJC=BWdIR1a_6HQucQ?ii
+zE8OGJ-reW>JLRgz9BZtv>Snp9n}wYPE{P}aW|rYm4}V4WGv*!kYlmHmevaPga^2yV
+zqAR}`UEVtEQuK@d=$8A-H@Pdn7#*7XS2mYnp+G1Q3jBfstl4U#!;CS80--=Cuu(w2
+z4~ec=Ikp+?)4{=70OF9_W}Is;p`7GcIkp-3geI9v%vA9fLo%KF$<I}eZN^N8c=I71
+zS-e9Li_ZI#9fwpIV+;jCfo%o$@^Y;8f7ajsZ<Asb3WNgxN&y*8Z>AHb<h6AtIjyyc
+reoI%=b8W^Ag%c~qJgcSnm~O`Xq!VK0*k<GoEq(+{h8RMDA64K3w2N!%
+
+-- 
+2.5.4 (Apple Git-61)
+
