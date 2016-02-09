@@ -9,9 +9,9 @@ public class Tipodedato {
 
         int capacidad = 1500; // Entero tipo int
 
-        float diametro = 34.25f; // Tipo float. Una f o F final indica que es float.
+        float diametro = 34.251234512345f; // Tipo float. Una f o F final indica que es float.
 
-        double peso = 88.77; // Tipo double. Un número con punto decimal se interpreta normalmente como double.
+        double peso = 34.251234512345;//88.77; // Tipo double. Un número con punto decimal se interpreta normalmente como double.
 
         short edad = 19; // Entero tipo short
  

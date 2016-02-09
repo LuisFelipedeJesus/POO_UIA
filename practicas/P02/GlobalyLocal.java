@@ -17,7 +17,7 @@ public class GlobalyLocal {
     public static void main(String[] args) {
         byte matricula = 120;
 
-        char letra = 'L';
+        char letra = '\u0086';
 
         int capacidad = 1500; // Entero tipo int
 
