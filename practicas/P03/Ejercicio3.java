@@ -6,6 +6,10 @@ public class Ejercicio3{
 		int a ;
 		int b ; 
 		java.util.Scanner leer = new java.util.Scanner (System.in);
+
+    System.out.println("\nIntroduce los valores de a y b para calcular la suma de los multiplos de 5\n");
+
+    System.out.println("\nEl programa no admite valores negativos si los introducen se te pedira que intruscas tus valores de nuevo\n");
 	
 		do{
 			System.out.println("Introduce el valor de a: ");
@@ -14,7 +18,7 @@ public class Ejercicio3{
 			b = leer.nextInt();
 
 
-		} while (( a < 0) && ( b < 0));// confirmacion de que a sean positivos
+		} while (( a < 0) || ( b < 0));// confirmacion de que a sean positivos
 		
 	
 		if(a>b){ // aqui se verifica que a sea menor que b
