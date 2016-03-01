@@ -2,7 +2,7 @@ import java.io.*;
 
 public class EjerCalculadora {
 
-    public static double a, b, fun, resultado;
+    public static double a, b,resultado;
 
     public EjerCalculadora() {
 
@@ -41,7 +41,7 @@ public class EjerCalculadora {
         EjerCalculadora object = new EjerCalculadora();
         do {
             while (true) {
-                System.out.println("==MENU==");
+                System.out.println("\t==MENU==");
                 System.out.println("\t1-. Sumar");
                 System.out.println("\t2-. Restar");
                 System.out.println("\t3-. Multiplicar");
@@ -82,8 +82,8 @@ public class EjerCalculadora {
                             break;
                     }
                 } else {
-                    System.out.println("Decidio salir hasta luego");
-                    System.exit(0); //Sale del programa
+                    System.out.println("Decidio salir, hasta luego");
+                    System.exit(0); 
 
                  
                 }
