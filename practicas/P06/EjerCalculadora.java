@@ -47,17 +47,18 @@ public class EjerCalculadora {
                 System.out.println("\t3-. Multiplicar");
                 System.out.println("\t4-. Dividir");
                 System.out.println("\t5-. Salir");
-                System.out.println("Seleccione la operacion deseada:\t\t");
+
+                System.out.println("Seleccione la operacion deseada:");
 
                 BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
                 op = Integer.parseInt(br.readLine());
 
                 if (op > 0 && op < 5) {    
 
-                    System.out.println("Ingrese primer numero:");
+                    System.out.println("Ingresa el primer numero:");
                     double auxa = Double.parseDouble(br.readLine());
 
-                    System.out.println("Ingrese segundo numero:");
+                    System.out.println("Ingresa el segundo numero:");
                     double auxb = Double.parseDouble(br.readLine());
 
                     switch (op) {       
